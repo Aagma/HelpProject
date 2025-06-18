@@ -5,7 +5,7 @@
 ## What is this?
 
 **HelpProject** is my personal assistant for cybersecurity commands, payloads, and reminders.  
-It’s a tool I’m building to automate the stuff I’ve learned — or more honestly, the stuff I keep forgetting — like:
+It’s a tool I’m building to automate the stuff I’ve learned or more honestly, the stuff I keep forgetting like:
 
 - XXE payloads
 - XSS tricks
